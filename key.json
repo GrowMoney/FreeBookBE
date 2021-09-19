@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ebookgratis-24795",
+  "private_key_id": "765b86126391dbf402ec206918c4f38d112dfb8c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCveU2BXq1cPWbD\nXkBW6crnkEF97r39FQpoziGy0XvTHaOqWonvpFYVQaGbJqhQpe+I+FPuKl0p+djU\ni+5X7Rve2xlYxbNBz35+u5DYGb9rFSOvlt5byxeUTK+GJJ+KiU08QWH2GDN5DNkb\ncVWL7mnfYObu/1f9RArZ9uk1Q+JuRph/7DaWFTi5u8M0xrA9BQMqZ2nGanKKVwhu\nXsLAcPQr4vRygg+TAdRQpyFruAiewHu6rCuqXBp84BJG6Lsc8q1nbRw92vobwvuX\nJ8GZWFU2TzDNiwuzfzFjIr53G1IzWKVJOTEL/M2m3A+xAUJqQouUC2b7IObAc7/c\nlnydKsEtAgMBAAECggEAHAF4ewYdFZxwJwzHKIf6XCB0L3D37ilaRrVlf/h6soxn\nt3PpUW/RVGWr8QsHsI13UE1P+fJVebJYZr3pnatoeBZQcpBlJoMDHZ96g98CI8lV\nL3xdA1oD6qWdmwOD2hTFWLFXvPMKXg7MpNpfDK0RxTbeTLVAuhmOwNBtUpTB0hcb\nLdVfBMhXKczXliTEKBcDS3kUi/YLXQ51YSPGcR66XUIx/SzH2IMBz2pd2C+X2Nzd\nZjbWu7zThtKeFd1qcdcB/dH/LPeegQL15tQ3K4FkydQ9DdTVh2p/IGdjXLY1Muu2\njs9a1DfdY5YKa+VYVNCTp7Ok+o0c/rIFG8jowFvTmQKBgQDWFCuegPITkXV4bSc8\nW2w7ahVxTwF3uwP20Yr4/2cGJvgLDhXpTH9pop7njKJKq6si2WuQAtOKN+NXIlJy\nCo2atkO2au3wSHeeaJQWJUida188ALAxXVEvY+SB1/Hkl6YamH1QYgGoC0ALWB5L\nmT6M0MYbf1khWAFbo8tqhUlVZQKBgQDR1dr4IUreeIJFMysqaVeLrBIEe4gnE323\nuHF7scAI4W8RxD8wWIOlEoiQvkvfjfLM/g2osQWnXSid1bYA1y3khLphWh+cLmoy\nveE/qTs1Yrw+cW6fa3QreNPKHTL2mLH/aoYm7eTPoRGsU0NaOqUVLlQHxn/kyhH6\nWUh3XpSEKQKBgQCs3Wy7ePQAyRxKOhnMqyYic+8Mp/dPbzwsOdg2aEYQubbhdmZL\nFPJtolseLnl+QlDWuyoYB7A5lBeHbLeWTt85ZqQW0RGBTYMJ7vhlSYXxV5p3ITcl\nJW1BDzCdiHpTVAFUyH2oQvuDblIw1t7fvMa9fnf6DEM0oZO3I/RF94rX4QKBgE6O\nSE6ycAv/g42SjWtwSoUQoyIoeR1f76XTGDEdp23rr6AwHxPjX01yNcwyYcdMpgRW\nbBimRR6WArmsI1oHNLgjdH8ztTfMLJfYfDZQDcl7sEuUPbzTBoer0WYOLmEhYyni\n4Fw8nXeZrjscZM+nutvGH1FV39VwTPCzciy2LNWZAoGBAKbM2P+0lM+aQUXU8Ekn\nbJ3m3SWvFk9eVGfLl/9/8A6Mmgz0WN3S5L+8MJwIpH2TylGX/dUttt/a0NDV6wd8\nfEdI+c9/3z9vhFoNFcx5ENDHiCVR/tNKCGQbMAfTfiRoc1PCFAj1qz2ppFIGKegF\nW337Lf+nsjjUyNyv3l1yM+HP\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-aalym@ebookgratis-24795.iam.gserviceaccount.com",
+  "client_id": "117093116772562352578",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-aalym%40ebookgratis-24795.iam.gserviceaccount.com"
+}
